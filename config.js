@@ -10,21 +10,21 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['201276638909', '𝑍𝐸𝑍𝛩', true],
+  ['967775302218', '𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀', true],
 
-  ['201116117654','𝑍𝐸𝑍𝛩 𝐵𝛩𝑇', true],
-  ['48699535582'],
-  ['48699535582']
+  ['967775302218','𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀 𝐵𝛩𝑇', true],
+  ['967782610285'],
+  ['']
 ];
 
-global.suittag = ['201276638909'];
-global.prems = ['48699535582'];
+global.suittag = ['967775302218'];
+global.prems = ['967782610285'];
 
-global.packname = '𝑍𝐸𝑍𝛩 𝐵𝛩𝑇';
-global.author = '𝑍𝐸𝑍𝛩';
-global.wm = '𝑍𝐸𝑍𝛩';
-global.titulowm = '𝑍𝐸𝑍𝛩';
-global.titulowm2 = `𝑍𝐸𝑍𝛩`
+global.packname = '𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀 𝐵𝛩𝑇';
+global.author = '𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀';
+global.wm = '𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀';
+global.titulowm = '𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀';
+global.titulowm2 = `𝐏𝐀𝐓𝐂𝐇𝐄𝐑𝐀`
 global.igfg = 'bobiza';
 global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\nhttps://www.instagram.com/zaidyasser44?igsh=MWkweWpwMG10bjNkeg==';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
